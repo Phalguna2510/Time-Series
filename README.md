@@ -8,4 +8,6 @@ Exponential Smoothing is a time series forecasting method that applies weighted 
 In this project, we aimed to predict real-world data, such as Power-Consumption, using a time series dataset. The dataset did not require much preprocessing as it was a clean dataset. We worked on finding out if the data had any seasonality and found that it had daily, monthly and weekly seasonality. We evaluated the performance of four types of models: Linear Regression, Exponential Smoothing, ARIMA, and SARIMA models. Finally, we found a dataset that shows the power generated from different sources in Africa(as our power-consumption dataset was based in Africa) such as coal, hydro-power,etc,.With this information we aim to find the carbon emission from each non-renewable sources by using the power forecast from our models.
 # Note
 You can find the code for the arima and exponential smoothing models in the repository.
+The dataset has also been uploaded.
+the trial.R file contains the code to find seasonality, trend and residual.
 The ppt gives a general sense of the project and its scope in the future.
